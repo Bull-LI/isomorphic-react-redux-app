@@ -22,9 +22,3 @@ fis.require.prefixes.unshift('fit')
 fis.require('isomorphic-build')(fis, conf)
 
 /************ 自定义配置部分 ************/
-fis.media('production').match('*.{css,less,scss,sass,js}', {
-    domain: 'http://tb1.bdstatic.com'
-})
-fis.media('production').match('::image', {
-    domain: 'http://tb2.bdstatic.com'
-})
