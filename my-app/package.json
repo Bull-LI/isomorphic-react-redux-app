@@ -22,7 +22,7 @@
     "axios": "^0.9.1",
     "buffer": "^4.5.0",
     "es6-promise": "^3.1.2",
-    "fit-isomorphic-redux-tools": "0.0.82",
+    "fit-isomorphic-redux-tools": "^0.0.95",
     "history": "^2.0.0",
     "immutable": "^3.7.6",
     "inversify": "^1.2.2",
